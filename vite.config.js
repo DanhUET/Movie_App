@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
     plugins: [react()],
     // base: "/Movie_App/",
-    base: "/",
+    base: "/app",
 });
